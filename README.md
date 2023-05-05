@@ -1,4 +1,4 @@
-# Random Prime Number Generator
+# Random Prime Number Generator ![CI](https://github.com/palashmon/random-prime-generator/actions/workflows/main.yaml/badge.svg)
 
 A TypeScript package that generates a random prime number within a certain range.
 
