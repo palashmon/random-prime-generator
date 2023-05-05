@@ -1,0 +1,39 @@
+{
+	"name": "random-prime-generator",
+	"version": "1.0.0",
+	"description": "Generates a random prime number within a certain range",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"scripts": {
+		"build": "tsc -p tsconfig.json",
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/your-username/random-prime-generator"
+	},
+	"keywords": [
+		"random",
+		"prime",
+		"number",
+		"generator",
+		"random-prime-generator",
+		"typescript",
+		"random-prime"
+	],
+	"author": {
+		"name": "Palash Mondal",
+		"url": "https://github.com/palashmon"
+	},
+	"license": "MIT",
+	"files": [
+		"dist/**/*"
+	],
+	"devDependencies": {
+		"@types/jest": "^29.5.1",
+		"@types/node": "^18.0.0",
+		"jest": "^29.5.0",
+		"ts-jest": "^29.1.0",
+		"typescript": "^5.0.0"
+	}
+}
