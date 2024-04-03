@@ -1,8 +1,6 @@
 {
 	"compilerOptions": {
 		"module": "commonjs",
-		"moduleResolution": "node16",
-		"moduleDetection": "force",
 		"target": "ES2021", // Node.js 16
 		"outDir": "dist",
 		"lib": [
